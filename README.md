@@ -22,8 +22,8 @@ SO THAT I can manage my time effectively
 [x]THEN the current day is displayed at the top of the calendar
 [x]WHEN I scroll down
 [x]THEN I am presented with timeblocks for standard business hours
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
+[x]WHEN I view the timeblocks for that day
+[x]THEN each timeblock is color coded to indicate whether it is in the past, present, or future
 WHEN I click into a timeblock
 THEN I can enter an event
 WHEN I click the save button for that timeblock
@@ -40,9 +40,10 @@ The following animation demonstrates the application functionality:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+- The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+- The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
-- - -
+---
+
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
